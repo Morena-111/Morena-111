@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Morena an IT student
+I'm a motivated and detail-oriented Information Technology professional seeking to apply
+technical expertise and problem-solving skills in a dynamic IT environment. Eager to
+contribute to system support, network administration, and cybersecurity initiatives
+while continuously learning and adapting to emerging technologies to support
+business goals effectively.
